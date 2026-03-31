@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there, I'm Swathi Gudivada 👋
+# Hi, I'm Swathi Gudivada 👋
 
-### AI/ML Engineer · GenAI Builder · Full-Stack Developer
+### AI/ML Engineer · GenAI & Agentic AI Builder · Full-Stack Developer
 
-*Turning ideas into intelligent, deployable systems — one model at a time.*
+*Building intelligent systems from prototype to production — RAG pipelines, multi-agent LLMs, and everything in between.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathigudivada/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swathi-2406)
@@ -15,86 +15,78 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Science Master's graduate** passionate about building end-to-end AI systems — from multi-agent LLM pipelines to production-ready ML applications. I love the intersection of GenAI, MLOps, and full-stack development, and I'm always working on something that bridges all three.
+I'm a **Computer Science Master's graduate from Arizona State University** (GPA: 3.89) with hands-on experience building production-grade GenAI systems, multi-agent LLM pipelines, and end-to-end ML solutions.
 
-- 🔭 Currently building **FamilyVault** — a private cross-platform family organizer (React Native, FastAPI, Supabase)
-- 🤖 Exploring **multi-agent LLM workflows** with LangChain, Ollama, and RAG pipelines
-- 🎯 Open to **GenAI Engineer**, **AI/ML Engineer**, and **LLM/Agentic AI Engineer** roles
-- 📍 Based in **Kolkata, India** · Targeting markets in **California, New York & Texas**
-- 🎨 Outside of code: crocheting, cooking, and building artisan chocolate side projects
+- 🔬 Currently working as an **AI & Data Engineer at RVCoLab, ASU** — building multimodal emotion-recognition systems, agentic voice AI, and real-time generative content pipelines
+- 🤖 Deep experience with **RAG architectures**, **ReAct agents**, **agentic orchestration** (LangChain, LlamaIndex), and **scalable model deployment** across AWS, Azure & GCP
+- 🎯 Open to **GenAI Engineer**, **ML Engineer**, and **LLM/Agentic AI Engineer** roles
+- 📍 Based in **India** · Targeting markets in **California, New York & Texas**
+- 🏆 Co-author of a **granted patent** in automated dermatology disease detection (IND 102069, Sept 2022)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💼 Current Role
 
-**AI / ML / GenAI**
+**AI & Data Engineer** · RVCoLab, MIX Center – Arizona State University *(Feb 2026 – Present)*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- Building a **multimodal emotion-recognition system** fusing facial action unit detection (OpenCV, DeepFace) with biometric signals (EEG, GSR), feeding into an LLM-based context layer for real-time avatar behavior
+- Developing an **Agentic AI voice system** using an ASR → LLM reasoning agent → TTS pipeline with a LangChain tool-calling layer, FAISS vector store, and autonomous avatar state triggers
+- Designing **end-to-end GenAI data pipelines**: raw sensor ingestion → feature engineering → model inference → LLM-generated narrative output, tracked with MLflow and served via FastAPI
+- Implementing real-time **Stable Diffusion-based scene generation** conditioned on user affect — reducing manual content curation time for researchers by **40%**
+
+---
+
+## 🛠️ Tech Stack
+
+**GenAI & Agentic AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B21A8?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B35?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+
+**ML & Deep Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
 **Backend & APIs**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Frontend & Mobile**
+**Frontend & Visualization**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**DevOps & Cloud**
+**Cloud & DevOps**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 [FamilyVault](https://github.com/swathi-2406) *(In Progress)*
-> Private, cross-platform family organizer for documents, photos, calendar & wardrobe
-
-`React Native` `Expo` `FastAPI` `Supabase` `Cloudflare R2`
-
----
-
-### 🎙️ [VoxBench — Speech Recognition MLOps](https://github.com/swathi-2406/speech-recognition-mlops)
-> End-to-end benchmarking of 5 deep learning architectures on Google Speech Commands v2
-
-`PyTorch` `FastAPI` `Gradio` `MLflow` `GitHub Actions` `CNN · BiLSTM · Attention`
-
-- Compared CNN, BiLSTM, Attention, CNN-BiLSTM, and CNN-BiLSTM-Attention architectures
-- Results significantly exceeded baseline projections; trained with RTX 4050 GPU
-- Includes EDA notebook, CI pipeline, and a full technical report
-
----
-
-### 🤖 GenAI Multi-Agent Workflow Automation *(In Progress)*
-> Production-style agentic AI system — fully runnable without paid API keys
-
-`LangChain` `FastAPI` `Streamlit` `Ollama` `RAG`
-
----
-
-### 🧶 [CrochetHub](https://github.com/swathi-2406)
-> Full-stack crochet pattern browser with admin panel and PowerShell setup scripts
-
-`React` `Vite` `FastAPI` `MongoDB`
-
----
-
-### 🎵 [MoodTunes](https://github.com/swathi-2406/MoodTunes)
-> Mood-based music recommendation app
+> 🔨 Portfolio actively under construction — projects dropping soon. Watch this space!
 
 ---
 
@@ -112,14 +104,14 @@ I'm a **Computer Science Master's graduate** passionate about building end-to-en
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathigudivada/)
-[![GitHub](https://img.shields.io/badge/Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swathi-2406)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swathigudivada/)
+[![GitHub](https://img.shields.io/badge/Explore_my_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swathi-2406)
 
-*Open to full-time AI/ML roles · Always up for interesting project collabs*
+*Open to full-time GenAI / ML Engineer roles · Always happy to collaborate on interesting AI projects*
 
 </div>
 
