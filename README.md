@@ -20,7 +20,6 @@ I'm a **Computer Science Master's graduate from Arizona State University** (GPA:
 - 🔬 Currently working as an **AI & Data Engineer at RVCoLab, ASU** — building multimodal emotion-recognition systems, agentic voice AI, and real-time generative content pipelines
 - 🤖 Deep experience with **RAG architectures**, **ReAct agents**, **agentic orchestration** (LangChain, LlamaIndex), and **scalable model deployment** across AWS, Azure & GCP
 - 🎯 Open to **GenAI Engineer**, **ML Engineer**, and **LLM/Agentic AI Engineer** roles
-- 📍 Based in **India** · Targeting markets in **California, New York & Texas**
 - 🏆 Co-author of a **granted patent** in automated dermatology disease detection (IND 102069, Sept 2022)
 
 ---
